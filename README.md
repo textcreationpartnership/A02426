@@ -35,103 +35,111 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A playne demonstration of Iohn Frithes lacke of witte and learnynge in his vnderstandynge of holie s
+Qui cupit Haeretici, nunc ſcirc Sophiſmata Frythi,Plebs, quibus, eſt miris ludificata modis.Commonſt
+1. The Prologue.
+IT is to be noted that where I dooe not recite the woordes of Frythe, nor any of his allegacions, bu
+1. The argumentes of the chapiters.
+The fautes eſcaped in the pryntynge apeereth in the later ende of the booke.
 #####Body#####
 
-1. Cap. 2.
+1. A DEMONSTRACION.
 
-1. Cap. 3.
+    _ Cap. 2.
 
-1. Cap. 4.
+    _ Cap. 3.
 
-1. Cap. 5.
+    _ Cap. 4.
 
-1. Cap. 6.
+    _ Cap. 5.
 
-1. Cap. 7.
+    _ Cap. 6.
 
-1. Cap. 8.
+    _ Cap. 7.
 
-1. Cap. 9.
+    _ Cap. 8.
 
-1. Cap. 3.
+    _ Cap. 9.
 
-1. Cap. 11.
+    _ Cap. 3.
 
-1. Cap. 12.
+    _ Cap. 11.
 
-1. Cap. 13.
+    _ Cap. 12.
 
-1. Cap. 14.
+    _ Cap. 13.
 
-1. Cap. 15.
+    _ Cap. 14.
 
-1. Cap. 16.
+    _ Cap. 15.
 
-1. Cap. 17.
+    _ Cap. 16.
 
-1. Cap. 18.
+    _ Cap. 17.
 
-1. Cap. 19.
+    _ Cap. 18.
 
-1. Cap. 20.
+    _ Cap. 19.
 
-1. Cap. 21.
+    _ Cap. 20.
 
-1. Cap. 22.
+    _ Cap. 21.
 
-1. Cap. 23.
+    _ Cap. 22.
 
-1. Cap. 24.
+    _ Cap. 23.
 
-1. Cap. 25.
+    _ Cap. 24.
 
-1. Cap. 26.
+    _ Cap. 25.
 
-1. Cap. 27.
+    _ Cap. 26.
 
-1. Cap. 28.
+    _ Cap. 27.
 
-1. Cap. 29.
+    _ Cap. 28.
 
-1. Cap. 30.
+    _ Cap. 29.
 
-1. Cap. 31.
+    _ Cap. 30.
 
-1. Cap. 32.
+    _ Cap. 31.
 
-1. Cap. 33.
+    _ Cap. 32.
 
-1. Cap. 34.
+    _ Cap. 33.
 
-1. Cap. 35.
+    _ Cap. 34.
 
-1. Cap. 36.
+    _ Cap. 35.
 
-1. Cap. 37.
+    _ Cap. 36.
 
-1. Cap. 38.
+    _ Cap. 37.
 
-1. Cap. 39.
+    _ Cap. 38.
 
-1. Cap. 40.
+    _ Cap. 39.
 
-1. Cap. 41.
+    _ Cap. 40.
 
-1. Cap. 42.
+    _ Cap. 41.
 
-1. Cap. 43.
+    _ Cap. 42.
 
-1. Cap. 44.
+    _ Cap. 43.
 
-1. Cap. 45.
+    _ Cap. 44.
 
-1. Cap. 46.
+    _ Cap. 45.
 
-1. Cap. 47.
+    _ Cap. 46.
+
+    _ Cap. 47.
 
 #####Back#####
-A playne demonstration of Iohn Frithes lacke of witte and learnynge in his vnderstandynge of holie s
+
+1. Fautes eſcaped in the pryntinge.
+IMPRINTED AT LONDON IN FLETESTRETE BI THOMAS POVVELL. Cum priuilegio ad imprimendum ſolum. ANNO. M. 
 **Types of content**
 
   * There are 8 **verse** lines!
